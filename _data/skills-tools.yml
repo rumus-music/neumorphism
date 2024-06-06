@@ -5,32 +5,5 @@
 # - name: Git
 #   weight: 5
 
-- name: Git
+- name: Joab
   weight: 5
-
-- name: Bash
-  weight: 3
-
-- name: Scrum
-  weight: 3
-
-- name: Travis CI
-  weight: 1
-
-- name: Jenkins
-  weight: 1
-
-- name: Chrome DevTools
-  weight: 2
-
-- name: npm
-  weight: 2
-
-- name: gulp
-  weight: 4
-
-- name: VS Code
-  weight: 3
-
-- name: Postman
-  weight: 4
