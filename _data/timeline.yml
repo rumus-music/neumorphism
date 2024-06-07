@@ -17,45 +17,82 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Joab
+  title-url: https://x.com/DolbyTo
+  date: President & co-funder
+  subtitle: build IT systems to solve problems. Love planes (YouTube!), movies, and X (formerly Twitter). Travel, learning, and meeting people are my jam!  Friendly face here :)
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
-  timeline-side: right
-
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+    - tag: IT Ing.
+    - tag: Traveler
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Aaliyah
+  title-url: https://x.com/aaliyah_auguste
+  date: Co-funder
+  subtitle: Dedicated dental student. Deeply loves science and is passionate about exploring the world; also loves connecting with people on X. Curious and enthusiastic.
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Assertive
+    - tag: Ambivert
+    - tag: Traveler
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Cleef
+  title-url: https://x.com/LawrentzN
+  date: Player
+  subtitle: ex-aircraft technician and a retired college player from Georgian Court University (GCU). He is a former All-American and a varsity letter holder.
+  tags:
+    - tag: Foward
+    - tag: Midfielder
+    - tag: Aircraft lover
   timeline-side: left
+
+- title: Bato
+  title-url: https://x.com/Ybarthelemy10
+  date: Player
+  subtitle: A dedicated truck driver and former nursing student at Broward College. He previously played as a midfielder for Miramar FC and Los Rey de Lima. His love for soccer remains a strong passion.
+  tags:
+    - tag: Midfielder
+    - tag: Prof. driver
+    - tag: Traveler
+  timeline-side: right
+
+- title: T-Pogba
+  title-url: https://x.com/zigwet
+  date: Player
+  subtitle: Former first responder at the Athletic Club, student at USF, central defender, football is his life.
+  tags:
+    - tag: Goat on X
+    - tag: Central Defender
+    - tag: Businessman
+  timeline-side: left
+
+- title: Roodjerry
+  title-url: https://x.com/roodjerry7
+  date: Player
+  subtitle: A dedicated bus driver and former nursing student at columbus state . He previously played as a center back  for AST FC . His love for soccer remains a strong passion.
+  tags:
+    - tag: Chef
+    - tag: Central Defender
+    - tag: Entrepreneur
+  timeline-side: right
+
+
+- title: Socrate
+  title-url: https://x.com/bob_thereal1
+  date: Player
+  subtitle: Retired chelsea player. NCAA best player of the year. Golden ball winner, 8 times best central midfielders.
+  tags:
+    - tag: Entrepreneur
+    - tag: Midfielder
+    - tag: Traveler
+  timeline-side: left
+
+- title: Kervens
+  title-url: https://x.com/KervensNOEL10
+  date: Player
+  subtitle: By day, they unravel the mind's mysteries with a passion for psychology. But when the suit comes off, you might find them on the soccer field or hosting a lively gathering.
+  tags:
+    - tag: Artist
+    - tag: Psychologist
+    - tag: Midfielder
+  timeline-side: right

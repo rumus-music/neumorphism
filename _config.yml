@@ -16,7 +16,7 @@ typing_text: where passion meets performance.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: where passion meets performance.
 # email: Your E-Mail address for the email button.
-email: email@example.com
+email: jollyminoufc@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
@@ -39,7 +39,7 @@ about_me_description: Our team is composed of experienced professionals with a d
 # show_skills_card:
 # > setting this to true, will display the Skills section
 # > setting this to false, will omit the Skills section
-show_skills_card: true
+show_skills_card: false
 # about_me_title: The will be displayed as the title in the Skills section
 skills_title: Members
 
@@ -47,9 +47,9 @@ skills_title: Members
 # show_timeline_card:
 # > setting this to true, will display the Timeline section
 # > setting this to false, will omit the Timeline section
-show_timeline_card: false
+show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Education & Experience
+timeline_title: Our people
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: https://example.com/
@@ -80,7 +80,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Join us on this exciting journey as we build a club that stands for excellence, passion, and community spirit. Visit <a href="https://x.com/jollyminoufc">our X page.</a>
+contact_description: Join us on this exciting journey as we build a club that stands for excellence, passion, and community spirit. For the news, visit <a href="https://x.com/jollyminoufc">our X page.</a>
 
 # GITHUB-METADATA
 # Set this to your forked repository
